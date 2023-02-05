@@ -1,6 +1,6 @@
 # Electronic Health Records
-![header](https://medixonline.ca/wp-content/uploads/2020/06/emr.jpg)
-<sub>Picture credits to Medix Online</sub>
+![header](https://thirdway.imgix.net/products/a-lifetime-electronic-health-record-for-every-american/HC-Medical-Records-Digital.jpg)
+<sub>[Picture source](https://www.thirdway.org/report/a-lifetime-electronic-health-record-for-every-american)</sub>
 ## What are Electronic Health Records (EHRs)
 Electronic health records are an electronic record of the patient’s previous medical history stored on a computer. Electronic Health Records allow a health provider to quickly, easily, and securely access a specific patients medical records with their permission to allow for faster and more accurate and safe treatment for the patient. Electronic Health Records also include much more information about the patient’s general health, such as previous diagnoses, treatments, test results, and allergies. They are meant to include more information than what is put forward through healthcare providers as well (e.g., a detailed history of the previous clinicians that have been involved with the patient, previous lab tests, or even notes made by the patient themselves about their lifestyle changes.)
 
@@ -34,7 +34,7 @@ Other popular EMR/EHR systems include Cerner, and MEDITECH. All following this c
 
 
 ## Are EHR/EMR systems the future of patient health records?
-They are definitely the future of the health industry, but without proper implementation, it could fail. The biggest concern when it comes to EHR systems is the security of the personal and very confidential records of the patients. Many leaks and breaches of EHR/EMR services in the past have proven to be very damaging to all individuals involved. They also severely lower trust in digitalized systems such as EHRs and how safe they are to protect the patients information. But with implementations such as the ePA in Germany using end-to-end encryption and being completely voluntary this future may be realized.
+They are definitely the future of the health industry, but without proper implementation, it could fail. The biggest concern when it comes to EHR systems is the security of the personal and very confidential records of the patients. Many leaks and breaches of EHR/EMR services in the past have proven to be very damaging to all individuals involved. They also severely lower trust in digitalized systems such as EHRs and how safe they are to protect the patient's information. But with implementations such as the ePA in Germany using end-to-end encryption and being completely voluntary this future may be realized.
 
 
 
