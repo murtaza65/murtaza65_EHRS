@@ -15,20 +15,20 @@ For ease of access, health insurance providers offer the insurance holders a fre
 
 Security when it comes to information as sensitive as medical health records is always important. That is why as a patient you have ultimate control on who accesses your private information and for how long. All of this can be managed through the ePA app on your smartphone or on-site at the medical care establishment using the electronic medical data card and personalized PIN. The ePA system is also completely end-to-end encrypted, so not even your health insurance provider can access it without your permission.
 
-Opting into the ePA system is as simple as contacting your health insurance provider and requesting to be registered on the electronic patient record system. It is free to everyone with statutory or private health insurance. The health insurance provider will then forward to you all the detailed information needed to finalize your registration through the ePA app on your smarthphone or if you do not want to use the application yourself, you can authorize your assigned doctor to finish the registration process for you. And even when changing health insurance providers, ePA can be transfered easily through a few clicks.
+Opting into the ePA system is as simple as contacting your health insurance provider and requesting to be registered on the electronic patient record system. It is free to everyone with statutory or private health insurance. The health insurance provider will then forward to you all the detailed information needed to finalize your registration through the ePA app on your smartphone or if you do not want to use the application yourself, you can authorize your assigned doctor to finish the registration process for you. And even when changing health insurance providers, ePA can be transferred easily through a few clicks.
 
 
 
 ## Other commonly used EHR/EMR systems
-Epic is one the most used EMR systems at the moment. It offers a cloud-based EMR solution for many specialities that is easy integrate into any healthcare establishment normal workflow while offering all the basic expected features of an EMR system. Due to this it is widely used in the US. 
+Epic is one the most used EMR systems at the moment. It offers a cloud-based EMR solution for many specialties that is easy integrate into any healthcare establishment normal workflow while offering all the basic expected features of an EMR system. Due to this it is widely used in the US. 
 
 Other popular EMR/EHR systems include Cerner, and MEDITECH. All following this chart:
 ![chart1](https://i.imgur.com/VkrMklu.png)
 
 
 ## What are the benefits of Electronic Health Records?
--  It provides a safe and secure way to store and retrieve all the relavent medical and health related information of a patient quickly to the medical staff when they need it the most. Information coming from a properly implemented electronic health system will lead to a much faster and accurate diagnoses and treatment plan for the patient.
--  With an electronic record of all of the patient's previous tests, consultations, and treatments - the doctors will be able to avoid any repeat tests and wasted time during doctors appointments and wasted lab time and equipment allowing for an increase in overall healthcare capacity from the time saved.
+-  It provides a safe and secure way to store and retrieve all the relevant medical and health related information of a patient quickly to the medical staff when they need it the most. Information coming from a properly implemented electronic health system will lead to a much faster and accurate diagnoses and treatment plan for the patient.
+-  With an electronic record of all of the patient's previous tests, consultations, and treatments - the doctors will be able to avoid any repeat tests and wasted time during doctor's appointments and wasted lab time and equipment allowing for an increase in overall healthcare capacity from the time saved.
 - Avoiding the many disadvantages of the previous paper-based records system. Those disadvantages depending on the implementation range from the space used by the physical records at every establishment and the man-power needed to maintain it and keep it organized, to such minor details such as poor writing or forgotten details such as the time given, or notes to correct errors (e.g., wrong dose, drug, form, etc.) when dealing with such a large quantity of written documents. Such errors can be prevented very easily through simple steps on a digital platform, such as auto-recording timestamps and requiring for specific crucial information to be properly documented before submitting changes.
 
 
